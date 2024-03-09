@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ADMIN/Desktop/PRJ301/ThuLamWeb/src/java/controller/AdminCRUDAccount.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/PRJ301/ThuLamWeb/web/productdetails.jsp</file>
+            <file>file:/C:/Users/ADMIN/Desktop/PRJ301/ThuLamWeb/web/ForAdminAccount.jsp</file>
+            <file>file:/C:/Users/ADMIN/Desktop/PRJ301/ThuLamWeb/src/java/model/Book.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/PRJ301/ThuLamWeb/src/java/dal/CommentDAO.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/PRJ301/ThuLamWeb/web/login.jsp</file>
+            <file>file:/C:/Users/ADMIN/Desktop/PRJ301/ThuLamWeb/src/java/model/Account.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/PRJ301/ThuLamWeb/web/listOrderDetail.jsp</file>
+            <file>file:/C:/Users/ADMIN/Desktop/PRJ301/ThuLamWeb/src/java/model/InforOrder.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/PRJ301/ThuLamWeb/src/java/controller/UserAccount.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/PRJ301/ThuLamWeb/src/java/dal/AccountDAO.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/PRJ301/ThuLamWeb/web/home.jsp</file>
+            <file>file:/C:/Users/ADMIN/Desktop/PRJ301/ThuLamWeb/web/ForShipper.jsp</file>
+            <file>file:/C:/Users/ADMIN/Desktop/PRJ301/ThuLamWeb/web/listComment.jsp</file>
+            <file>file:/C:/Users/ADMIN/Desktop/PRJ301/ThuLamWeb/web/ForAdmin.jsp</file>
+            <file>file:/C:/Users/ADMIN/Desktop/PRJ301/ThuLamWeb/src/java/dal/DBContext.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/PRJ301/ThuLamWeb/web/card.jsp</file>
+            <file>file:/C:/Users/ADMIN/Desktop/PRJ301/ThuLamWeb/web/ConfirmCard.jsp</file>
+            <file>file:/C:/Users/ADMIN/Desktop/PRJ301/ThuLamWeb/web/purchaseHistory.jsp</file>
+            <file>file:/C:/Users/ADMIN/Desktop/PRJ301/ThuLamWeb/src/java/controller/CardCRUD.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/PRJ301/ThuLamWeb/src/java/dal/bookDao.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/PRJ301/ThuLamWeb/src/java/dal/OrderDAO.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/PRJ301/ThuLamWeb/web/listOrder.jsp</file>
+            <file>file:/C:/Users/ADMIN/Desktop/PRJ301/ThuLamWeb/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/ADMIN/Desktop/PRJ301/ThuLamWeb/src/java/controller/OrderServlet.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/PRJ301/ThuLamWeb/src/java/controller/LoginServlet.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/PRJ301/ThuLamWeb/src/java/controller/HomeServlet.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/PRJ301/ThuLamWeb/src/java/model/HistoryCard.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/PRJ301/ThuLamWeb/src/java/model/orderDetail.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/PRJ301/ThuLamWeb/src/java/dal/InforOrderDAO.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/PRJ301/ThuLamWeb/web/ChangePassword.jsp</file>
+            <file>file:/C:/Users/ADMIN/Desktop/PRJ301/ThuLamWeb/src/java/dal/categoriDAO.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/PRJ301/ThuLamWeb/src/java/model/order.java</file>
+        </group>
+    </open-files>
+</project-private>

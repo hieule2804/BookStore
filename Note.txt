@@ -1,0 +1,14 @@
+Hiện đã xong add vào bảng inforOrder cần làm thêm :
++trang cho shipper 
++khi user buy xong thì chuyển tới purchase history nhưng status vẫn là đang giao
++thêm 1 tính năng conirmOrder nữa ở trang admin khi để có thể update
+shiper 
++ khi admin update shiper thì ở trang danh cho shiper sẽ hiện lên đơn hàng và nút xác nhận đã giao hàng
++ khi shipper đã giao hàng thì ấn nút đã giao hàng thì ở status ở trang purchase history sẽ chuyển thành đã giao 
+
+0:cho xac nhan
+1:cho nhan hang
+2:da giao
+
+
+dang loi ở order của admin khi không hiện được list chờ confirm
